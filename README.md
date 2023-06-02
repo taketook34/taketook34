@@ -1,4 +1,4 @@
-<h2 align=center> Hi there, I'm Bohdan 👋</h2>
+<h2 align=center> Hi there, I'm Dmytro </h2>
 <p align=center> <b>I'm a self-taught programmer and beginner Python Developer in Web!</b> </p>
 
 <p align=center> Contact me via <a href="https://t.me/Take_Took">Telegram</a> </p> 
