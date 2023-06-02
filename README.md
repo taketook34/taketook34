@@ -6,6 +6,6 @@
 
 <h2 align=center> Tools and languages I'm familiar with </h2>
   <p>
-    <div align=center><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2107%2FPNG%2F512%2Ffile_type_html_icon_130541.png&f=1&nofb=1&ipt=8a315b35b2e9e3e4e50ebcf5f84ef7c6a30acae17631060d168b197114b09a62&ipo=images" alt='HTML' width=50 height=50>
+    <div align=center>
     </div>
   </p>
