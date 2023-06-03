@@ -1,8 +1,11 @@
 <h2 align=center> Hi there, I'm Dmytro </h2>
 <p align=center> <b>I'm a self-taught programmer and beginner Python Developer! Currently I'm pursuing bachelor degree in computer engineering from  Kiev Polytechnic Institute </b> </p>
-
-<p align=center> Contact me via <a href="https://t.me/Take_Took">Telegram</a> </p> 
-<div align=center><img src="https://www.vectorico.com/wp-content/uploads/2019/02/Telegram-Icon-300x300.png" width=25 height=25 alt='telegram' align=top> @Take_Took</div>
+<img src="https://github-readme-stats.vercel.app/api?username=taketook34" alt='Stats'>
+<br>
+<div align=left><img src="https://www.vectorico.com/wp-content/uploads/2019/02/Telegram-Icon-300x300.png" width=25 height=25 alt='telegram' align=top> @Take_Took</div>
+<br>
+<div align=left><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width=25 height=25 alt='telegram' align=top> taketook34@gmail.com </div>
+<br>
 <div align=left><li>I'm learning the Python programming language, I'm trying to learn as many different libraries as I can that cover different topics</li>
 <li>Сurrently learning Backend Web Development using Django Framework</li>
 <li>All my projects are available now.</li></div>
