@@ -9,6 +9,7 @@
 <br>
 <div align=left><li>I'm learning the Python programming language, I'm trying to learn as many different libraries as I can that cover different topics</li>
 <li>Сurrently learning Backend Web Development using Django Framework</li>
+<li>Use Fedora Linux from 12 years and I am a confident user of this distribution </li>
 <li>All my projects are available now.</li></div>
 
 <h2 align=center> Tools and languages I'm familiar with </h2>
